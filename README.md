@@ -1,6 +1,6 @@
 Hi, my name is Amalachukwu, an adept Cybersecurity professional with a decade of experience in leading security systems. From teaching Microsoft Suite in 2012 to becoming a certified cybersecurity expert in 2023, my journey reflects a passion for technology. 
 
-🔭 I’m currently working on Security Architecture of rain project <br>
+🔭 I’m currently working on Security Architecture for RAIN on ICT Ignite Project <br>
 🌱 I’m currently learning Python, Bash, Powershell <br>
 👯 I’m looking to collaborate on Application Security <br>
 💬 Ask me about IT Security <br>
