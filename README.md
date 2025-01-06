@@ -1,11 +1,15 @@
-Hi, my name is Amalachukwu, an adept Cybersecurity professional with a decade of experience in leading security systems. From teaching Microsoft Suite in 2012 to becoming a certified cybersecurity expert in 2023, my journey reflects a passion for technology. 
+Hi, I’m Amalachukwu Azubike, an application developer and cybersecurity analyst with over a decade of experience in technology, starting from desktop support and IT support roles to gaining cybersecurity certifications in 2023. I’m currently studying Computer Application Development, where I’m expanding my knowledge in system analysis, web design, software development, and database management.
 
-🔭 I’m currently working on Security Architecture for RAIN on ICT Ignite Project <br>
-🌱 I’m currently learning Python, Bash, Powershell <br>
-👯 I’m looking to collaborate on Application Security <br>
-💬 Ask me about IT Security <br>
-📫 How to reach me: onyenweamala@gmail.com <br>
-⚡ Fun fact: I am a sponge to "How to do things" <br>
+<br>
+
+🔭 Currently studying: Computer Application Development  
+🌱 Working on: Advanced JavaScript, React, Node.js, SQL, MongoDB, HTML, EJS, Express, C# (WPF), and XAML  
+👯 Looking to collaborate on: Application Security, System Development, and Web Development  
+💬 Feel free to ask about: IT Security, Application Development, and System Design  
+📫 Reach me at: onyenweamala@gmail.com  
+⚡ Fun fact: I’m a sponge for learning new ways to "get things done."
+
+<br>
 <br>
 <br>
 <h3>STATISTICS<h3>
