@@ -1,4 +1,4 @@
-Hi, I’m Amalachukwu Azubike, an application developer and cybersecurity analyst with over a decade of experience in technology, starting from desktop support and IT support roles to gaining cybersecurity certifications in 2023. Irecently completed a post graduate diploma in Computer Application Development, where I expanded my knowledge in system analysis, web design, software development, and database management.
+Hi, I’m Amalachukwu Azubike, an application developer and cybersecurity analyst with over a decade of experience in technology, starting from desktop support and IT support roles to gaining cybersecurity certifications in 2023. I recently completed a post graduate diploma in Computer Application Development, where I expanded my knowledge in system analysis, web design, software development, and database management.
 
 <br>
 
