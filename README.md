@@ -1,11 +1,11 @@
-Hi, I’m Amalachukwu Azubike, an application developer and cybersecurity analyst with over a decade of experience in technology, starting from desktop support and IT support roles to gaining cybersecurity certifications in 2023. I’m currently studying Computer Application Development, where I’m expanding my knowledge in system analysis, web design, software development, and database management.
+Hi, I’m Amalachukwu Azubike, an application developer and cybersecurity analyst with over a decade of experience in technology, starting from desktop support and IT support roles to gaining cybersecurity certifications in 2023. Irecently completed a post graduate diploma in Computer Application Development, where I expanded my knowledge in system analysis, web design, software development, and database management.
 
 <br>
 
-🔭 Currently studying: Computer Application Development  
-🌱 Working on: Advanced JavaScript, React, Node.js, SQL, MongoDB, HTML, EJS, Express, C# (WPF), and XAML  
-👯 Looking to collaborate on: Application Security, System Development, and Web Development  
-💬 Feel free to ask about: IT Security, Application Development, and System Design  
+🔭 Recent Graduate: Computer Application Development  
+🌱 Working on: Advanced JavaScript, AML, React, Node.js, SQL, MongoDB, HTML, EJS, Express, C# (WPF), and XAML  
+👯 Looking to collaborate on: Frontend Development, Full Stack Development, UI/UX, Application Security, System Development, and Web Development  
+💬 Feel free to ask about: Frontend, IT Security, Application Development, and System Design  
 📫 Reach me at: onyenweamala@gmail.com  
 ⚡ Fun fact: I’m a sponge for learning new ways to "get things done."
 
